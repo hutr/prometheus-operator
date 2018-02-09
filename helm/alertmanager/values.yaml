@@ -140,7 +140,7 @@ service:
 
   ## Service type
   ##
-  type: ClusterIP
+  type: NodePort
 
 ## If true, create & use RBAC resources
 ##
